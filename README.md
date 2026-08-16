@@ -5,7 +5,7 @@ MovieLens `ml-latest-small` veri seti (610 kullanıcı, 9.742 film, 100.836 puan
 ## Klasör yapısı
 
 ```
-Staj/
+movielens-recommender-system/
     dataset/ml-latest-small/     # ham MovieLens verisi (ratings, movies, tags, links, README.txt)
     scripts/                     # ogrenme sureci: 26 numarali script, EDA'dan hybrid modele
     movie_recommender/           # paketlenmis, yeniden kullanilabilir surum (bkz. kendi README'si)
